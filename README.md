@@ -1,2 +1,2 @@
 # ScanningPancakes
-- Will help to genrate and scan the QR's
+- Will help to generate  and scan the QR's
