@@ -5,6 +5,5 @@
 - Integrated Google Sheet as a database.
 - Used Google Sheets API to establish a connection.
 
-# Quick Links
 
   
