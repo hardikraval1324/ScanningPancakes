@@ -8,7 +8,3 @@
 # Quick Links
 
   
-
-|  Database link  | [Test Sheet](https://docs.google.com/spreadsheets/d/1DbmuMcyt3N7SNf0tSSyLtSPYygipUE01b7qR_1zLAWY/edit?usp=sharing)   |
-| :------------- | :----------:  | 
-| Test QR   | [0.png](https://github.com/hardikraval1324/ScanningPancakes/blob/main/SacnQR/0.png)   | 
