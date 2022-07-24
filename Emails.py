@@ -6,8 +6,8 @@ from email.mime.image import MIMEImage
 import json
 
 # The mail addresses and password
-sender_address = 'freshers.unofficial2021@gmail.com'
-sender_pass = 'erYAvhAaPaGQ5ju'
+sender_address = '******@gmail.com'
+sender_pass = '**********'
 # Setup the MIME
 
 # fetch email into this dynamic list
